@@ -1,6 +1,6 @@
 # Cryptography-Cipher
 Converts cipher code to plain text and viceversa
-Modules 
+Modules used are-
     1.	onetimepad Module:
         o	Description: This module is used for implementing the One-Time Pad encryption method. It is a simple yet theoretically unbreakable encryption technique.
         o	Usage in Project: The onetimepad module is used to encrypt and decrypt messages. The functions onetimepad.encrypt() and onetimepad.decrypt() are utilized to convert plain text to cipher text and vice versa.
